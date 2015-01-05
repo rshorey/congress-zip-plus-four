@@ -4380,14 +4380,14 @@
         "name": "Ted Yoho"
     },
     "A000360": {
-        "example_address": "333 F Street",
-        "example_city": "Chula Vista",
-        "example_state": "TN",
-        "zip5": "91910",
-        "zip4": "2624",
-        "example_district": "",
-        "type": "Sen",
-        "name": "Lamar Alexander"
+            "example_state": "TN", 
+            "example_address": "900 Georgia Avenue", 
+            "name": "Lamar Alexander", 
+            "example_city": "Chattanooga", 
+            "example_district": "", 
+            "type": "Sen", 
+            "zip5": "37402 ", 
+            "zip4": "2230"
     },
     "A000368": {
         "example_address": "1589 Elm Street",
