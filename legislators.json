@@ -650,10 +650,20 @@
         "zip5": "36801", 
         "zip4": "5476"
     }, 
-    "C000556": {
+    "W000819": {
         "example_state": "NC", 
         "example_address": "1634 North Main Street", 
-        "name": "Howard Coble", 
+        "name": "Bradley Mark Walker", 
+        "example_city": "High Point", 
+        "example_district": "6", 
+        "type": "Rep", 
+        "zip5": "27262", 
+        "zip4": "2644"
+    }, 
+    "W000819": {
+        "example_state": "NC", 
+        "example_address": "1634 North Main Street", 
+        "name": "Bradley Mark Walker", 
         "example_city": "High Point", 
         "example_district": "6", 
         "type": "Rep", 
