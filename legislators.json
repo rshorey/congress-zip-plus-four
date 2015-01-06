@@ -2450,16 +2450,6 @@
         "zip5": "66606", 
         "zip4": "1998"
     }, 
-    "J000291": {
-        "example_state": "NE", 
-        "example_address": "110 West Reynolds Street", 
-        "name": "Mike Johanns", 
-        "example_city": "Plant City", 
-        "example_district": "", 
-        "type": "Sen", 
-        "zip5": "33563", 
-        "zip4": "3377"
-    }, 
     "J000292": {
         "example_state": "OH", 
         "example_address": "258 Front Street", 
@@ -4339,7 +4329,17 @@
         "type": "Rep", 
         "zip5": "29407", 
         "zip4": "4631"
-    }, 
+    },  
+    "S001197": {
+        "example_state": "NE", 
+        "example_address": "110 West Reynolds Street", 
+        "name": "Benjamin Sasse", 
+        "example_city": "Plant City", 
+        "example_district": "", 
+        "type": "Sen", 
+        "zip5": "33563", 
+        "zip4": "3377"
+    },
     "S000148": {
         "example_state": "NY", 
         "example_address": "1231 Lafayette Avenue", 
